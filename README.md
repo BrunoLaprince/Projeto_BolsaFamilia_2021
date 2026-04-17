@@ -1,6 +1,9 @@
 ## Projeto Big Data com Apache Spark
+<div align="center">
+  <img src="https://i.imgur.com/WkWDdYQ.png width"100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;">Projeto Bolsa Familia</h1>
 
----
+
 
 ### Descrição
 <p>Este projeto tem como objetivo realizar a análise de dados em formato CSV utilizando o Apache Spark, permitindo o processamento eficiente de grandes volumes de dados referente ao Bolsa Familia.<p>
